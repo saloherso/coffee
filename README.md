@@ -1,16 +1,24 @@
-# React + Vite
+COFFE - Website
+Sitio web para una cafeteria.
+Diseñado para unacafeteria artesanal. Presenta informacion sobre el menu, historia, productos destacados, ubicacion y un formulario de contacto. El sitio esta construido con buenas practicas de diseño web y preparado para futuras integracionesn(backend, e.t.c).
+Vista previa: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias utilizadas:
+html - css - javascript - git - react.
 
-Currently, two official plugins are available:
+Caracteristicas:
+Pagina principal.
+Seccion sobre nosostros.
+Menu digital dividido por categorias.
+Carrito basico.
+Integracion con google maps para ubicacion.
+Diseño responsivo.
+Animaciones suaves y diseño moderno.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mejora futura:
+Integracion backend.
+sistemas de reservas.
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Autor:
+Desarrollador frontend.
